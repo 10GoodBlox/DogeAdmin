@@ -1,12 +1,12 @@
 {
     "en-us": {
-        "mainmsg": "Say $pre$cmds to access the commands UI.",
+        "mainmsg": "Say _pcmds to access the commands UI.",
         "kill": "kill",
         "crash":"crash",
         "spike": "spike"
     },
     "es-es": {
-        "mainmsg": "Diga $pre$cmds para acceder a la interfaz de usuario de comandos",
+        "mainmsg": "Diga _pcmds para acceder a la interfaz de usuario de comandos",
         "kill": "matar",
         "crash": "choque",
         "spike": "espiga"
