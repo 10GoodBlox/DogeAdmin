@@ -1,7 +1,7 @@
 --	// FileName: TeamChat.lua
 --	// Written by: Xsitsu
 --	// Description: Module that handles all team chat.
---  // got rid of team chat notifier
+--      // got rid of team chat notifier
 
 local Chat = game:GetService("Chat")
 local ReplicatedModules = Chat:WaitForChild("ClientChatModules")
