@@ -1,14 +1,28 @@
 {
     "en-us": {
+        "welcome": "Welcome to Doge Admin.",
         "mainmsg": "Say _pcmds to access the commands UI.",
         "kill": "kill",
+        "killDesc": "Kills the targeted player",
+        "mb":"    Made by 10GoodDogs",
+        "cmdsDesc": "Opens this window.",
+        "unlkDesc": "Stops killing the targeted player repeatedly",
+        "lkDesc": "Kills the targeted player repeatedly",
         "crash":"crash",
+        "crashDesc": "Stops the server from working & lags it alot",
         "spike": "spike"
     },
     "es-es": {
+        "welcome": "Bienvenido a Doge Admin.",
         "mainmsg": "Diga _pcmds para acceder a la interfaz de usuario de comandos",
         "kill": "matar",
+        "killDesc": "Mata al jugador objetivo",
+        "mb":"   Hecho por 10GoodDogs",
+        "cmdsDesc": "Abre esta ventana.",
+        "unlkDesc": "Deja de matar al jugador objetivo repetidamente",
+        "lkDesc": "Mata al jugador objetivo repetidamente",
         "crash": "choque",
+        "crashDesc": "Evita que el servidor funcione y se retrasa mucho",
         "spike": "espiga"
     }
 }
